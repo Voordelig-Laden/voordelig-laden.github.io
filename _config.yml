@@ -1,0 +1,13 @@
+title: Voordelig Laden
+description: Voordelig laden voor inwoners van Den Haag
+sitename: Voordelig Laden
+baseurl: ''
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - features
+exclude:
+  - README.md
+  - LICENSE.txt
+  - CNAME
